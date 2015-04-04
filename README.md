@@ -1,7 +1,6 @@
 # Blogger
 
-This README outlines the details of collaborating on this Ember application.
-A short introduction of this app could easily go here.
+This is just me trying to go through an old Ember tutorial using Ember CLI.
 
 ## Prerequisites
 
